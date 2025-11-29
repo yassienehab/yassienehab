@@ -78,7 +78,7 @@ Android • Kotlin • Machine Learning • Neural Networks • Computer Vision 
 
 ---
 
-### 🌐 Animated Developer Card
+### 🌐 MORE INFO
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassienehab&theme=tokyonight" />
 </p>
