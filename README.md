@@ -2,26 +2,25 @@
 <h3 align="center">Software Engineer | Computing Intelligence Researcher | Mobile Development Specialist</h3>
 
 <p align="center">
-  Building intelligent systems that merge Computer Vision, Mobile Development, and real-world problem solving.
+  Building intelligent systems that merge Computer Vision, Mobile Development, and real problem solving.
 </p>
 
 ---
 
 ### 🚀 About me
-- I’m pursuing a **Master's Degree in Computer Science and Artificial Intelligence** at **FCAI – Damietta University**
-- I work on advanced **Computing Intelligence** and **Computer Vision** research including  
-  **ovarian cyst detection**, **polyp detection in colonoscopy**, and **medical image analysis with YOLO**
-- I build cross-platform and native mobile apps  
-- I aim to become a high-impact **Technical Director and Consultant**
+- Pursuing a **Master's Degree in Computer Science and Artificial Intelligence** at **FCAI – Damietta University**
+- Researching **Computing Intelligence**, **Neural Networks**, and **Advanced Computer Vision**
+- Developing cross-platform and native mobile apps
+- Aiming to become a high-impact **Technical Director and Consultant**
 
 ---
 
 ### 📚 Current work
-- YOLO-based medical detection research  
-- Mobile development deep dive  
-- Expanding my expertise in:
-  - Neural Networks
+- Computing Intelligence and applied AI studies  
+- Mobile development deep understanding  
+- Focus areas:
   - Machine Learning
+  - Neural Networks
   - Computer Vision
   - Android
   - Kotlin
@@ -79,19 +78,12 @@ Android • Kotlin • Machine Learning • Neural Networks • Computer Vision 
 
 ---
 
-### 📌 Featured Projects
-Here are some selected works:
-
-- 🩺 **Medical Polyp Detection with YOLO**  
-  Real-time colonoscopy polyp detection using YOLO models  
-  *(Computer Vision | Medical AI)*
-
-- 🧬 **Ovarian Cyst Classification**  
-  YOLO-based system for detecting ovarian cysts in laparoscopic surgery images  
-  *(Deep Learning | Medical Imaging)*
-
-- 📱 **Android & Cross-Platform Apps**  
-  Native Android apps in Kotlin and cross-platform apps using Flutter  
+### 📌 Highlighted Interests
+- Building intelligent mobile systems  
+- Applying deep learning in real environments  
+- Designing clean UI and usable experiences  
+- Exploring advanced Computing Intelligence methods  
+- Writing structured research and developing practical solutions  
 
 ---
 
@@ -103,4 +95,3 @@ Here are some selected works:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yassienehab&theme=tokyonight" />
 </p>
-
