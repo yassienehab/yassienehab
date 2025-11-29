@@ -78,20 +78,26 @@ Android • Kotlin • Machine Learning • Neural Networks • Computer Vision 
 
 ---
 
-### 📌 Highlighted Interests
-- Building intelligent mobile systems  
-- Applying deep learning in real environments  
-- Designing clean UI and usable experiences  
-- Exploring advanced Computing Intelligence methods  
-- Writing structured research and developing practical solutions  
+### 🌐 Animated Developer Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassienehab&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassienehab&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassienehab&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassienehab&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yassienehab&theme=tokyonight" />
+</p>
 
 ---
 
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassienehab&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yassienehab&theme=tokyonight" />
-</p>
+### 📌 Highlighted Interests
+- Intelligent mobile systems  
+- Deep learning implementations  
+- UI design and usability  
+- Computing Intelligence methods  
+- Structured research and real solutions  
