@@ -11,22 +11,22 @@
 - I’m pursuing a **Master's Degree in Computer Science and Artificial Intelligence** at **FCAI – Damietta University**
 - I work on advanced **Computing Intelligence** and **Computer Vision** research including  
   **ovarian cyst detection**, **polyp detection in colonoscopy**, and **medical image analysis with YOLO**
-- I build cross-platform mobile apps and native Android apps
-- I aim to become a high-impact **Technical Director and Consultant** with strong cross-domain expertise
+- I build cross-platform and native mobile apps  
+- I aim to become a high-impact **Technical Director and Consultant**
 
 ---
 
 ### 📚 Current work
-- Researching **YOLO-based medical object detection**
-- Deep-diving into **Mobile App Development**
+- YOLO-based medical detection research  
+- Mobile development deep dive  
 - Expanding my expertise in:
   - Neural Networks
   - Machine Learning
-  - Android Development
-  - Kotlin Development
   - Computer Vision
-  - UI/UX Engineering
-  - WordPress Systems
+  - Android
+  - Kotlin
+  - UI/UX
+  - WordPress
 
 ---
 
@@ -50,13 +50,13 @@ Android • Kotlin • Machine Learning • Neural Networks • Computer Vision 
 
 ---
 
-<h3 align="left">Languages and Tools</h3>
+### 🧰 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
   <img width="12" />
@@ -79,14 +79,28 @@ Android • Kotlin • Machine Learning • Neural Networks • Computer Vision 
 
 ---
 
+### 📌 Featured Projects
+Here are some selected works:
+
+- 🩺 **Medical Polyp Detection with YOLO**  
+  Real-time colonoscopy polyp detection using YOLO models  
+  *(Computer Vision | Medical AI)*
+
+- 🧬 **Ovarian Cyst Classification**  
+  YOLO-based system for detecting ovarian cysts in laparoscopic surgery images  
+  *(Deep Learning | Medical Imaging)*
+
+- 📱 **Android & Cross-Platform Apps**  
+  Native Android apps in Kotlin and cross-platform apps using Flutter  
+
+---
+
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassienehab&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassienehab&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassienehab&theme=gotham" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yassienehab&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassienehab&show_icons=true&layout=compact&theme=gotham" />
-</p>
