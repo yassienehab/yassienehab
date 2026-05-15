@@ -1,170 +1,189 @@
-<h1 align="center">Yassien Ehab</h1>
-<h3 align="center">
-Software Engineer • AI Researcher • Computer Vision Engineer • Mobile Development Specialist
-</h3>
+<div align="center">
 
-<p align="center">
-Building AI-powered systems that combine Computer Vision, Computing Intelligence, Mobile Engineering, and real-world problem solving.
-</p>
+# Yassien Ehab
+
+### AI Engineer • Computer Vision Researcher • Mobile Developer • Computing Intelligence Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;AI+Researcher;Mobile+Development+Specialist;Deep+Learning+Engineer;Technical+Problem+Solver" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- Master's Student in Computer Science and Artificial Intelligence at <a href="https://www.du.edu.eg/faculties/facultyhome.aspx?facid=86">FCAI – Damietta University</a>
-- Researcher in:
-  - Computing Intelligence
-  - Neural Networks
-  - Deep Learning
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/yassien-ehab-b34b96198/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/yassien__ehab/profilecard/?igsh=a2pwazgzNjZ5bm5o" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61551492413308" target="_blank">
+<img src="https://img.icons8.com/color/48/facebook-new.png" height="45"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Yassien Ehab
+Role: Software Engineer & AI Researcher
+Education: Master's Student at FCAI - Damietta University
+Specialization:
   - Computer Vision
+  - Deep Learning
+  - Computing Intelligence
+  - Mobile Development
   - Medical AI
-- Working on AI-driven medical detection systems using YOLO architectures
-- Interested in intelligent systems that solve practical engineering and healthcare problems
-- Focused on becoming a Technical Director and AI Consultant with strong cross-domain expertise
+Focus:
+  - Intelligent Systems
+  - Real-world AI Solutions
+  - Medical Detection Models
+  - Cross-platform Applications
+Goal:
+  - Become a Technical Director & AI Consultant
+```
 
 ---
 
-## 🔬 Research Interests
+# 🔬 Research & Development
 
-- Medical Computer Vision
-- Deep Learning Architectures
-- Object Detection
-- Intelligent Mobile Systems
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI Research
+
+- Computing Intelligence
 - Neural Networks
-- AI Deployment
-- Human-Centered AI Systems
-- Embedded AI Applications
-
----
-
-## 📚 Current Research & Projects
-
-### AI-Driven Polyp Detection in Colonoscopy
-Researching real-time medical object detection using YOLO models for endoscopic and laparoscopic environments.
-
-### Tumors Detection Using Deep Neural Network
-Building intelligent medical imaging systems for enhanced diagnostic support.
-
-### Museum Statue Detection System
-Graduation project focused on object detection and recognition inside museum environments.
-
-### Mobile Engineering
-Developing scalable Android and cross-platform applications with modern UI/UX principles.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-### Mobile Development
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-### AI & Data Science
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### Design & Development Tools
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🧠 Areas of Expertise
-
-- Computer Vision
 - Deep Learning
-- YOLO Model Deployment
+- Medical Computer Vision
+- Object Detection
+- YOLO Architectures
+
+</td>
+
+<td width="50%">
+
+### 📱 Engineering
+
 - Android Development
-- Kotlin Engineering
-- Flutter Applications
+- Kotlin Applications
+- Flutter Development
 - Firebase Integration
-- Python Development
-- UI/UX Design
-- WordPress Development
-- Git & Version Control
+- UI/UX Systems
+- WordPress Solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Connect With Me
+# 📚 Current Projects
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yassien-ehab-b34b96198/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+### 🩺 AI-Driven Polyp Detection
+Developing real-time colonoscopy detection systems using YOLO-based architectures for medical environments.
 
-<a href="https://www.facebook.com/profile.php?id=61551492413308" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+### 🧬 Tumor Detection Using Deep Neural Networks
+Building intelligent medical imaging solutions for diagnostic assistance and healthcare AI systems.
 
-<a href="https://www.instagram.com/yassien__ehab/profilecard/?igsh=a2pwazgzNjZ5bm5o" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+### 🏛️ Museum Statue Detection
+Object detection and recognition system for museum environments using Computer Vision techniques.
+
+### 📱 Intelligent Mobile Applications
+Designing scalable Android and Flutter applications with modern architecture and optimized UX.
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassienehab&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yassienehab&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassienehab&theme=tokyonight" />
-</p>
+## Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yassienehab&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yassienehab&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,dart" />
 
 ---
 
-## 🎯 Vision
+## Mobile Development
 
-Creating intelligent systems that bridge:
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase,kotlin" />
+
+---
+
+## AI & Development
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,git" />
+
+---
+
+## Tools & Design
+
+<img src="https://skillicons.dev/icons?i=figma,wordpress,vscode,github,linux" />
+
+</div>
+
+---
+
+# 🧠 Core Expertise
+
+<div align="center">
+
+| AI & Vision | Mobile Engineering | Software Skills |
+|---|---|---|
+| Computer Vision | Android Development | Git & GitHub |
+| Deep Learning | Flutter Applications | Firebase |
+| YOLO Deployment | Kotlin Engineering | Linux |
+| Neural Networks | UI/UX Systems | WordPress |
+| Medical AI | Cross-platform Apps | Python |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassienehab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassienehab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yassienehab&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🎯 Vision
+
+Building intelligent systems that combine:
+
 - Artificial Intelligence
 - Medical Technology
+- Computer Vision
 - Mobile Engineering
-- Human usability
-- Real-world deployment
+- Human-Centered Design
+- Real-world Deployment
 
-Long-term target:
-Building high-impact AI products and becoming a leading Technical Director and AI Consultant in advanced intelligent systems.
+---
+
+<div align="center">
+
+### “Engineering intelligent systems that create measurable real-world impact.”
+
+</div>
