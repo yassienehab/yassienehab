@@ -42,7 +42,7 @@ Building AI-powered systems that combine Computer Vision, Computing Intelligence
 ### AI-Driven Polyp Detection in Colonoscopy
 Researching real-time medical object detection using YOLO models for endoscopic and laparoscopic environments.
 
-### Ovarian Cyst Detection Using YOLO
+### Tumors Detection Using Deep Neural Network
 Building intelligent medical imaging systems for enhanced diagnostic support.
 
 ### Museum Statue Detection System
